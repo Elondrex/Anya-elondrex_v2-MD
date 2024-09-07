@@ -35,7 +35,7 @@ services:
       - key: Web
         value: "https://github.com/PikaBotz"
       - key: GcLink
-        value: "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX"
+        value: "https://chat.whatsapp.com/CnKD3A7b6xqBfE8s9Uq1eh"
       - key: Warn_Limits
         value: "3"
       - key: Cooldown_Timer_Seconds
